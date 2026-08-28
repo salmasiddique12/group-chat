@@ -23,9 +23,7 @@ A real-time group chat application built with React and Vite that allows multipl
 
 ## 📸 Screenshots
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f668a44-4b4d-4510-9bb6-3ca43ffe42fc" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b9a355a-0fb9-4441-8f93-95209424f272" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e7831d9b-1d9e-4c2c-89dd-a0851f63c149" />
 
 
 ![Realtime Chat](./screenshots/chat.png)
